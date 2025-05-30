@@ -1,0 +1,27 @@
+{
+  "name": "express-postgre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goran1010/express-postgre.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goran1010/express-postgre/issues"
+  },
+  "homepage": "https://github.com/goran1010/express-postgre#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "pg": "^8.16.0"
+  }
+}
